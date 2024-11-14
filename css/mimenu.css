@@ -1,0 +1,27 @@
+navbar{
+	display:block;
+	width: 1200px;
+	background: yellow;
+	
+	margin:pink;
+	font-size: 1.5em;
+	text-align: center;
+	height: 100px;
+    
+}
+li:hover{
+	border:red 5px solid;
+	border-radius: 10px 30px 12px;
+	
+}
+li{
+	display: inline-block;
+	padding: 25px;
+
+
+}
+a{
+	width: 200px;
+	text-decoration: none;
+   display: inline-block;
+}
